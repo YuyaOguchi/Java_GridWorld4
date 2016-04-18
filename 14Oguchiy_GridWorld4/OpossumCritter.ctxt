@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=OpossumCritter()
+comment1.params=locs
+comment1.target=info.gridworld.grid.Location\ selectMoveLocation(java.util.ArrayList)
+comment2.params=actors
+comment2.target=void\ processActors(java.util.ArrayList)
+comment3.params=other
+comment3.target=boolean\ isFriend(info.gridworld.actor.Actor)
+comment4.params=other
+comment4.target=boolean\ isFoe(info.gridworld.actor.Actor)
+comment5.params=loc
+comment5.target=void\ makeMove(info.gridworld.grid.Location)
+numComments=6

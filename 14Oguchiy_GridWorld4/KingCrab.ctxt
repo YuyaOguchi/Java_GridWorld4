@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=KingCrab()
+comment1.params=loc1\ loc2
+comment1.target=int\ distanceFrom(info.gridworld.grid.Location,\ info.gridworld.grid.Location)
+comment2.params=a
+comment2.target=boolean\ moveOneMoreAway(info.gridworld.actor.Actor)
+comment3.params=actors
+comment3.target=void\ processActors(java.util.ArrayList)
+numComments=4
